@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cananaylar
+- 👀 I’m interested in software
