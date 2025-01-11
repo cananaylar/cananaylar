@@ -2,5 +2,3 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3ovwsbv5w6skmgr7ptonly4km">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3ovwsbv5w6skmgr7ptonly4km" alt="Data Card for Spotify">
 </a>
-👀 I’m interested in software
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cananaylar&label=Profile%20views&color=0e75b6&style=flat" alt="cananaylar" /> </p>
